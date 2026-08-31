@@ -1,0 +1,11 @@
+{
+  "name": "EduPortal",
+  "description": "Comprehensive college and institution management portal with role-based dashboards for Admin, Teachers, and Students featuring Google OAuth, live WebRTC streaming, Wi-Fi attendance, notes, live quizzes, and fee payments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
